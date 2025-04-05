@@ -25,7 +25,9 @@ body {
 .display input {
   width: 100%;
   background: 1a1a1a;
-  color: #39ff14;
+  color: rgb(230, 14, 198);
+  box-shadow: 0 0 20px #600365;
+
   border: none;
   font-size: 2rem;
   text-align: right;
